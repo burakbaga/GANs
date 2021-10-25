@@ -2,4 +2,10 @@
 Generative Adversarial Netwok fikri ilk kez Ian Goodfellow tarafından 2014 yılında ortaya atıldı. Burada en temel fikir rastgele sayılar kullanarak ve bu sayıları bir sinir ağında eğiterek belirli bir olasılık dağılımı elde etmek. Daha sonra bu sinir ağını kullanarak random üretilen sayılardan (noise) eğitim setinde kullanılan verilere benzer veriler elde etmektir.  
 ![gif](https://github.com/burakbaga/GANs/blob/master/images/gan_mnist.gif)  
 
+Medium Post : https://bagataburak.medium.com/1-generative-adversarial-networks-7f568d93eed2
 
+# 2.Deep Convolutional Neural Networks (DCGAN)
+Generative Adversarial Netwok fikri ilk kez Ian Goodfellow tarafından 2014 yılında ortaya atıldı. Burada en temel fikir rastgele sayılar kullanarak ve bu sayıları bir sinir ağında eğiterek belirli bir olasılık dağılımı elde etmek. Daha sonra bu sinir ağını kullanarak random üretilen sayılardan (noise) eğitim setinde kullanılan verilere benzer veriler elde etmektir.  
+![gif](https://github.com/burakbaga/GANs/blob/master/images/celb2.gif)  
+
+Medium Post : 
